@@ -1,0 +1,78 @@
+.manage_link{
+    text-decoration: none;
+    position: absolute;
+  text-decoration: none;
+  color: black;
+  left: 130px;
+  top: 142px;
+}
+
+.down{
+    position: relative;
+
+}
+
+
+.bidinside{
+    position: relative;
+    top: 48px;
+    left:-22px
+}
+
+.accesscontrol{
+    position: relative;
+    top: 16px;
+    left: 59px;
+}
+
+.circletext{
+    display: flex;
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+
+.circletext > input{
+    margin-right: 10px;
+}
+
+.lighttext{
+    color: gray;
+}
+
+.firstlight{
+    position: relative;
+    top: 27px;
+    left: 120px;
+}
+
+.secondlight{
+    position: relative;
+    top: 47px;
+    left: 200px;
+}
+
+.permissionheading{
+    position: relative;
+    left: 500px;
+    bottom: 100px;
+}
+
+.data{
+    display: flex;
+}
+
+.data > p{
+    margin-left: 10px;
+}
+
+.permissiondata{
+    position: relative;
+    left: 680px;
+    bottom: 80px;
+}
+
+.arealarge{
+    width: 50px;
+    background-color: white;
+}

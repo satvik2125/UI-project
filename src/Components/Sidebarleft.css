@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,900&display=swap');
+
+.header__logo{
+    top: 20px;
+}
+
+.sidebarleft{
+    position: relative;
+    top: 10px;
+    width: 250px;
+    background: #FCFBFF;
+    height: 100%
+}
+
+.headerbottom{
+    position: relative;
+    top: 56px;
+    left: 10px;
+}
+
+.firsticon{
+    display: flex;
+    font-size: 22px;
+    padding: 6px 0 8px 5px;
+}
+
+.secondicon{
+    display: flex;
+    padding: 6px 0 8px 5px;
+    font-size: 22px;
+}
+
+.thirdicon{
+    display: flex;
+    padding: 6px 12px 8px 5px;
+    font-size: 22px;
+    border-left: 6px  #673AB7 solid;
+    background-color: #E1D8F1;;
+}
+
+.header__heading{
+    width: 100px;
+
+font-weight: 600;
+font-family: Roboto;
+position :absolute;
+top:2px;
+left: 52px;
+
+}
+
+.firsticon p{
+    font-size: 15px;
+    color:#828282
+}
+
+.secondicon p{
+    font-size: 15px;
+    color:#828282
+}
+.thirdicon p{
+    font-size: 15px;
+    color:#673AB7
+}
+
+.logo{
+    width: 25px;
+    height: 25px;
+
+}
+
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+
+.logoname{
+display: flex;
+position: relative;
+top: 16px;
+left: 30px;}

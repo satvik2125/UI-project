@@ -1,0 +1,50 @@
+.header__heading{
+    position: absolute;
+    width: 100px;
+    height: 21.31px;
+    left: 80px;
+    top: 26px;
+    color: #330B86;
+    font-weight: 600;
+    font-family: Roboto;
+    }
+    
+    
+    .header__oval{
+    Width:36px;
+    Height:36px;
+    position: absolute;
+    right: 250px;
+    top:32px;
+    bottom: 94.44%;
+    color: #C5CEE0;
+    
+    }
+    
+    .header__name{
+    position: absolute;
+    width: 56px;
+    height: 19px;
+    top: 34px;
+    right: 200px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    }
+    
+    .header__notification{
+    position: absolute;
+    right: 150px;
+    top: 32px;
+    
+    }
+    
+    .header__questionmark{
+        position: absolute;
+    right: 100px;
+    top: 32px;
+    
+    
+    }
